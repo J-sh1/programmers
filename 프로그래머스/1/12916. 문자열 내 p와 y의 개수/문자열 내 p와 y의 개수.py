@@ -14,3 +14,6 @@ def solution(s):
         return True
     else : 
         return False
+
+# 다른사람 코드
+# return s.lower().count('p') == s.lower().count('y')
