@@ -7,3 +7,7 @@ def solution(s):
     for i in range(0, len(b)):
         answer += b[i]
     return answer
+
+# 다른사람 코드
+# ''.join(sorted(s, reverse=True))
+# 흠... 굳이 for문을 안돌려도 될듯? sorted
