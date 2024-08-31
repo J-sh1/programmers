@@ -10,3 +10,5 @@ def solution(s):
             result.append('')  
 
     return ' '.join(result)
+
+# s.title() << 이거하면 끝..
